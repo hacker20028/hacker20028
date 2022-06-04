@@ -1,7 +1,6 @@
-([https://github.com/hacker20028/hacker20028/blob/main/banner%20for%20git.png](https://github.com/hacker20028/hacker20028/blob/main/bfg.png))
-
 ### Hi there 👋, my name is Aryan Wadher
 #### 💻 Computer Science Student at KSIL | 🙌🏻 Aspiring Contributor | 👨🏻‍💻 Tech Enthusiast
+![💻 Computer Science Student at KSIL | 🙌🏻 Aspiring Contributor | 👨🏻‍💻 Tech Enthusiast](https://github.com/hacker20028/hacker20028/blob/main/bfg.png)
 
 I am a student of Computer Applications. and know programming languages like C, C++, Python, Java, Flutter, HTML, CSS and JavaScript. I am also good at writing skills and professional communication.
 
