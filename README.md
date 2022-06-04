@@ -13,7 +13,7 @@ Skills: HTML / CSS / JS / JAVA / C / C++ / FLUTTER / PYTHON
 - ⚡ Fun fact: I can do 25 din mai paisa double 
 - 💻 I am a self taught programmer
 
- ![Metrics](https://metrics.lecoq.io/hacker20028?template=classic&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) | [![trophy](https://github-profile-trophy.vercel.app/?username=hacker20028&theme=matrix&no-bg=false&no-frame=false&row=4&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+ ![Metrics](https://metrics.lecoq.io/hacker20028?template=classic&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) |----------|[![trophy](https://github-profile-trophy.vercel.app/?username=hacker20028&theme=matrix&no-bg=false&no-frame=false&row=4&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
  <a href="https://github.com/hacker20028"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=hacker20028&theme=chartreuse-dark" alt="Aryan's Contribution stats" /></a>
 
