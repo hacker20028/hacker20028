@@ -1,4 +1,4 @@
-(https://github.com/hacker20028/hacker20028/blob/main/banner%20for%20git.png)
+([https://github.com/hacker20028/hacker20028/blob/main/banner%20for%20git.png](https://github.com/hacker20028/hacker20028/blob/main/bfg.png))
 
 ### Hi there 👋, my name is Aryan Wadher
 #### 💻 Computer Science Student at KSIL | 🙌🏻 Aspiring Contributor | 👨🏻‍💻 Tech Enthusiast
