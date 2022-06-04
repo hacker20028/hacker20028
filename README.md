@@ -23,7 +23,7 @@ Skills: HTML / CSS / JS / JAVA / C / C++ / FLUTTER / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker20028)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker20028&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hacker20028&show_icons=true&count_private=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hacker20028)  
 
