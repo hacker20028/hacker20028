@@ -1,7 +1,7 @@
 ![💻 Computer Science Student at KSIL | 🙌🏻 Aspiring Contributor | 👨🏻‍💻 Tech Enthusiast](https://github.com/hacker20028/hacker20028/blob/main/bfg.png)
 
 ### Hi there 👋, my name is Aryan Wadher
-### I am a student of Computer Science Student at KSIL and know programming languages like C, C++, Python, Java, Flutter, HTML, CSS and JavaScript. I am also good at writing skills and professional communication. Ask me for a market tip and the next thing you'll receive is Warren Buffett's mail.
+### I am a Student of Computer Science at KSIL and know programming languages like C, C++, Python, Java, Flutter, HTML, CSS and JavaScript. I am also good at writing skills and professional communication. Ask me for a market tip and the next thing you'll receive is Warren Buffett's mail.
 
 Skills: HTML / CSS / JS / JAVA / C / C++ / FLUTTER / PYTHON
 
