@@ -1,6 +1,6 @@
 [![bg.png](https://i.postimg.cc/FFwSTtKf/bg.png)](https://postimg.cc/mhNhr5CR)
 # 💫 About Me:
-🔭 I’m currently working on my skills<br>🌱 I’m currently learning Java<br>🤔 I’m looking for help with my App<br>💬 Ask me about Tech, Stock Market, Investment Tips<br>📫 Reach me at aryan20028@gmail.com<br>⚡ Fun fact: I can do 25 din mai paisa double<br>💻 I am a self taught programmer
+🔭 I’m currently working on my skills<br>🌱 I’m currently learning Java<br>🤔 I’m looking for new project opportunities<br>💬 Ask me about Tech, Stock Market, Investment Tips<br>📫 Reach me at aryan20028@gmail.com<br>⚡ Fun fact: I can do 25 din mai paisa double<br>💻 I am a self taught programmer
 
 <br/>
 
